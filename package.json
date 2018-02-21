@@ -1,0 +1,26 @@
+{
+  "name": "me-do-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djorborn/me-do-webpack.git"
+  },
+  "author": "djorborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djorborn/me-do-webpack/issues"
+  },
+  "homepage": "https://github.com/djorborn/me-do-webpack#readme",
+  "dependencies": {
+    "vue": "^2.5.13"
+  },
+  "devDependencies": {
+    "vue-loader": "^14.1.1",
+    "webpack": "^3.11.0"
+  }
+}
